@@ -20,8 +20,19 @@ O projeto foi desenvolvido com foco em colocar em prática conceitos importantes
 
 ## Funcionalidades
 
-* 👤 Criação de conta
-* 🔐 Login e logout
+
+<details> 
+<summary>👤 Criação de conta</summary>
+  foto do projeto
+</details>
+
+<details> 
+<summary>🔐 Login e logout</summary>
+  foto do projeto
+</details>
+
+
+
 * 🎬 Listagem de filmes
 * 🔎 Pesquisa por filmes
 * 📖 Página de detalhes
