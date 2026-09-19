@@ -23,7 +23,9 @@ O projeto foi desenvolvido com foco em colocar em prática conceitos importantes
 
 <details> 
 <summary>👤 Criação de conta</summary>
-  foto do projeto
+  <p align="center">
+  <img src="imgs_apresentacao/criarconta.png" alt="Página criarconta" width="600">
+  </p>
 </details>
 
 <details> 
