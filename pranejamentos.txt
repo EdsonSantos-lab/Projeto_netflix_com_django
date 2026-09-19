@@ -1,0 +1,18 @@
+- HomePage
+- Fazer login e Criar conta ( Usuario e Autenticaçao)
+    - email
+    - username
+    - senha
+    - editar perfil
+
+- Filmes/ Series
+    - thumb
+    - titulo
+    - descrição
+    - categoria
+    - quantidade de view
+    - episodios
+        - filmes
+        - series
+
+- Barra de pesquisa
