@@ -30,8 +30,14 @@ O projeto foi desenvolvido com foco em colocar em prática conceitos importantes
 
 <details> 
 <summary>🔐 Login e logout</summary>
-  foto do projeto
+  <p align="center">
+  <img src="imgs_apresentacao/login.png" alt="Página criarconta" width="600">
+  </p>
+  <p align="center">
+  <img src="imgs_apresentacao/lagout.png" alt="Página criarconta" width="600">
+  </p>
 </details>
+
 
 
 
