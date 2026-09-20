@@ -69,14 +69,14 @@ O projeto foi desenvolvido com foco em colocar em prática conceitos importantes
 <details> 
 <summary>👁️ Contagem de visualizações</summary>
   <p align="center">
-  <img src="imgs_apresentacao/detalhes" alt="Página detalhes" width="600">
+  <img src="imgs_apresentacao/detalhes.png" alt="Página detalhes" width="600">
   </p>
 </details>
 
 <details> 
 <summary>📌 Registro dos filmes assistidos</summary>
   <p align="center">
-  <img src="imgs_apresentacao/assistidos" alt="Página detalhes" width="600">
+  <img src="imgs_apresentacao/assistidos.png" alt="Página detalhes" width="600">
   </p>
 </details>
 
