@@ -38,18 +38,54 @@ O projeto foi desenvolvido com foco em colocar em prática conceitos importantes
   </p>
 </details>
 
+<details> 
+<summary>🎬 Listagem de filmes</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/listafilmes.png" alt="Página listafilmes" width="600">
+  </p>
+</details>
 
+<details> 
+<summary>🔎 Pesquisa por filmes</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/pesquisar.png" alt="Página pesquisafilmes" width="600">
+  </p>
+</details>
 
+<details> 
+<summary>📖 Página de detalhes</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/detalhes.png" alt="Página detalhesfilme" width="600">
+  </p>
+</details>
 
-* 🎬 Listagem de filmes
-* 🔎 Pesquisa por filmes
-* 📖 Página de detalhes
-* ▶️ Episódios relacionados aos filmes
-* 👁️ Contagem de visualizações
-* 📌 Registro dos filmes assistidos
-* 👤 Edição do perfil
-* 🔑 Alteração de senha
-* 📂 Categorias de filmes
+<details> 
+<summary>▶️ Episódios relacionados aos filmes</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/relacionados.png" alt="Página filmes" width="600">
+  </p>
+</details>
+
+<details> 
+<summary>👁️ Contagem de visualizações</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/detalhes" alt="Página detalhes" width="600">
+  </p>
+</details>
+
+<details> 
+<summary>📌 Registro dos filmes assistidos</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/assistidos" alt="Página detalhes" width="600">
+  </p>
+</details>
+
+<details> 
+<summary>🔑 Alteração de senha</summary>
+  <p align="center">
+  <img src="imgs_apresentacao/mudarsenha.png" alt="Página editar" width="600">
+  </p>
+</details>
 
 ## Tecnologias utilizadas
 
