@@ -160,8 +160,15 @@ python manage.py runserver
 
 Depois, acesse:
 
-```text
-http://127.0.0.1:8000/
+
+
+**Desenvolvido por**
+```
+Edson Santos
+
+Projeto desenvolvido como parte da minha jornada de aprendizado em Python e desenvolvimento Web com Django.
+
+Python • Django • Desenvolvimento Web
 ```
 
 
