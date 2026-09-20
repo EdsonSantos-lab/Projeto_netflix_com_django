@@ -14,10 +14,10 @@ Editar Perfil
             <form method="post">
                 {% csrf_token %}
                 <fieldset class="form-group">
-                    <legend class="border-bottom mb-4">Edite os campos abaixo</legend>
+                    <legend class="border-bottom mb-5">Edite os campos abaixo</legend>
                     {{ form|crispy }}
                 </fieldset>
-                <button class="bg-red-600  py-1 px-3 text-white md:text-lg rounded-md" type="submit">Editar Perfil</button>
+                <button class="bg-red-600  py-1 px-3 text-white md:text-lg rounded-md" type="submit">Editar</button>
             </form>
             <small><a href="{% url 'filme:mudarsenha' %}">Modificar Senha?</a></small>
         </div>
