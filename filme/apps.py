@@ -1,24 +1,16 @@
 from django.apps import AppConfig
-import os
 
 
 class FilmeConfig(AppConfig):
-    name = "filme"
+    name = 'filme'
 
-    def ready(self):
-        from .models import Usuario
+    #def ready(self):
+        #from .models import Usuario
+        #import os
 
-        email = os.getenv("EMAIL_ADMIN")
-        senha = os.getenv("SENHA_ADMIN")
-
-        if not email or not senha:
-            return
-
-        if not Usuario.objects.filter(email=email).exists():
-            Usuario.objects.create_superuser(
-                username="admin",
-                email=email,
-                password=senha,
-                is_active=True,
-                is_staff=True,
-            )
+        #email = os.getenv('EMAIL_ADMIN')
+        #senha = os.getenv('SENHA_ADMIN')
+        #usuarios = Usuario.objects.filter(email=email)
+        #if not usuarios:
+          #  Usuario.objects.create_superuser(username="admin", email=email, password=senha,
+            #                                 is_active=True, is_staff=True)
