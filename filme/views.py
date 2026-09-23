@@ -23,7 +23,6 @@ class HomePage(FormView):
             return super().get(request, *args, **kwargs) # rediciona para a homepage
     def get_success_url(self):
         email = self.request.POST.get("email")
-        print(email)
         usuarios = Usuario.objects.filter(email=email).exists()
         if usuarios:
             return reverse('filme:login')
